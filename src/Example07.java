@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Set;
 
 // Set
+// HashSet
 public class Example07 {
     public static void main(String[] args) {
         // 인터페이스<제너릭> 변수명 = new 구현체<>();

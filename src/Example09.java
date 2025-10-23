@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 // Queue
+// deque
 public class Example09 {
     // Queue -> 큐 돌리다 -> 줄을 서서 대기
     // 선입선출 (First In, First Out)
